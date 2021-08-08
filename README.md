@@ -1,6 +1,20 @@
 # SpaceInvader-Game
 <br>
 
+## Download
+<br>
+
+### Python
+
+https://www.python.org/downloads/
+<br>
+
+### Anaconda
+
+https://www.anaconda.com/products/individual
+
+<br>
+
 ## Installation
 
 <br>
