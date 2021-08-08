@@ -8,7 +8,7 @@
 1.Clone this repository
 
 ```html
-
+https://github.com/DipeshDhandha07/SpaceInvader-Game.git
 ```
 
 2.Python
