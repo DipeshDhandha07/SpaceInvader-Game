@@ -1,6 +1,10 @@
 # SpaceInvader-Game
 <br>
 
+![image](https://github.com/DipeshDhandha07/SpaceInvader-Game/assets/55910147/3f2f067f-bd9e-4640-9e21-b90c17b7138d)
+![image](https://github.com/DipeshDhandha07/SpaceInvader-Game/assets/55910147/1311e629-8e8f-4827-bbb5-58813963925e)
+
+
 ## Download
 <br>
 
