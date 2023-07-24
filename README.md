@@ -1,4 +1,5 @@
 # SpaceInvader-Game
+This game is created using pygame module in python language
 <br>
 
 ![image](https://github.com/DipeshDhandha07/SpaceInvader-Game/assets/55910147/3f2f067f-bd9e-4640-9e21-b90c17b7138d)
